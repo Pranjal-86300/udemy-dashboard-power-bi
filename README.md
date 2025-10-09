@@ -81,10 +81,10 @@ This project visualizes Udemy’s course data through **4 analytical dashboard p
 
 > *(Add screenshots or images here for each dashboard page)*  
 > Example:  
-> ![Overview Page](.\pages\Page-1.jpg)  
-> ![Sales Page](.\pages\Page-2.jpg)
-> ![Subscribers Page](.\pages\Page-3.jpg)
-> ![Content Page](.\pages\Page-4.jpg)
+> ![Overview Page](./pages/Page-1.jpg)  
+> ![Sales Page](./pages/Page-2.jpg)
+> ![Subscribers Page](./pages/Page-3.jpg)
+> ![Content Page](./pages/Page-4.jpg)
 ---
 
 ## 👤 Author
